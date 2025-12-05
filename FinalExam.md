@@ -62,7 +62,7 @@ Matricula: 018268
 
 #### 13. Describe un posible dilema ético que un ingeniero podría enfrentar en su trabajo. ¿Cómo actuarías tú ante esa situación?
 
-* Un dilema bastante común en el ámbito de mi carrera sería la **obsolescencia programada**, la cual consiste en que un producto deja de funcionar por la forma en la que fue desarrollada. En este caso, o en lo personal, no me gustaría realizar ese tipo de prácticas ya que me parece una clase de estafa la cual será recurrente y estaría afectando al usuario o comprador del programa.
+* Un dilema bastante común en el ámbito de mi carrera sería la obsolescencia programada, la cual consiste en que un producto deja de funcionar por la forma en la que fue desarrollada. En este caso, o en lo personal, no me gustaría realizar ese tipo de prácticas ya que me parece una clase de estafa la cual será recurrente y estaría afectando al usuario o comprador del programa.
 
 ### 5. CIERRE DEL CURSO (RESPUESTAS DENTRO DEL REPOSITORIO)
 #### 14. Menciona tres aprendizajes clave que te llevas de la materia “Campo Profesional del Ingeniero”.
@@ -76,5 +76,5 @@ Matricula: 018268
 * En lo personal me gustó mucho cómo fue impartido el curso, con actividades constantes para forzarnos a participar sin que se sienta tedioso. Lo único que me gustaría más serían más actividades de integración o demás que nos ayuden a desarrollar distintas habilidades, como la actividad de la torre.
 
 #### 16. Escribe una breve reflexión final sobre tu experiencia este semestre en la materia.
-
-* Este curso me ayudó a ver muchas áreas de aplicación para mi carrera y muchas cosas de cómo funcionan, gracias a las exposiciones de mis compañeros. Además de ayudarme a decidir más o menos el área de aplicación en la que me quiero desarrollar y las herramientas que necesito para poder lograrlo.
+* Este curso me ayudó a ver muchas áreas de aplicación para mi carrera y muchas cosas de cómo funcionanja exposicione mi. Además de ayudarme a decidir más o menos el área de aplicación en la que me quiero desarrollar y las herramientas que necesito para poder lograrlo.
+# SE ACABO EL SEMESTRE, FELIZ NAVIDAD
